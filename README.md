@@ -48,7 +48,7 @@ Transposed Matrix:
 ```
 
 ## Credits
-Developed by [Mevaser Zehoray](https://github.com/your-username).
+Developed by [Mevaser Zehoray](https://github.com/mevaser).
 
 ---
 
